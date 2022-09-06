@@ -1,6 +1,5 @@
 package com.kotlin.demo.kotlin_crud.web
 
-import lombok.Getter
 import org.jetbrains.annotations.NotNull
 import java.util.Date
 import javax.persistence.Entity
